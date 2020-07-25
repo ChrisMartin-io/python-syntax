@@ -9,6 +9,8 @@ function findMultiples(arr, count) {
   return retArr;
 }
 
+
+
 function freqCounter(arr) {
   let obj = {};
   for (let i = 0; i < arr.length; i++) {
